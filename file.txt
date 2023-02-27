@@ -1,0 +1,10 @@
+lin_inter.py
+newton_divided.py
+quad_inter.py
+Cubin spline.py
+inv_lagrange.py
+lagrange.py
+newton_backward.py
+newton_forward.py
+Divided Difference.py
+T13.py
