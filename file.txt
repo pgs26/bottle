@@ -8,3 +8,4 @@ newton_backward.py
 newton_forward.py
 Divided Difference.py
 T13.py
+diffnewtforward.py
