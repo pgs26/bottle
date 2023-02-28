@@ -10,3 +10,5 @@ Divided Difference.py
 T13.py
 diffnewtforward.py
 q3.py
+Dfferentiation Newton's Backward.py
+Differentiation Newton Forward.py
