@@ -9,3 +9,4 @@ newton_forward.py
 Divided Difference.py
 T13.py
 diffnewtforward.py
+q3.py
